@@ -1,19 +1,4 @@
-name: Scott Poythress
-favicon: null
-layout_spectrum: 0.35031660506501794
 typography_spectrum: 0.2567206914536655
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,22 @@ color:
   lightness: 0.690862727118656
   saturation: 0.32862201193347573
   rhythmicContrast: 0.08753841323778033
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.35031660506501794
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Scott Poythress
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: >-
+  I am where Vincent Price, James Stewart and Alec Guinness do their best Peter
+  Sellers impressions.
 purpose: []
